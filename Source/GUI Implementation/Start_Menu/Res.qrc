@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="SPCTF Logo">
+    <file>SourceMountain2.jpg</file>
+    <file>SourceWaterfall2.jpg</file>
+    <file>color.png</file>
+    <file>volc.jpg</file>
+    <file>SourceSpace2.jpg</file>
+    <file>LeftArrow.png</file>
+    <file>Pixel_BG.png</file>
+    <file>RightArrow.png</file>
+    <file>white.png</file>
+    <file>RAW IMG/8086.png</file>
+    <file>RAW IMG/bg.png</file>
+    <file>RAW IMG/bg1.png</file>
+    <file>RAW IMG/BlurBG.png</file>
+    <file>RAW IMG/color.png</file>
+    <file>RAW IMG/color2.png</file>
+    <file>RAW IMG/Dark Mode.png</file>
+    <file>RAW IMG/Dictionary.png</file>
+    <file>RAW IMG/Dragon_Eye_Intelligence1(S).png</file>
+    <file>RAW IMG/EEPROM.png</file>
+    <file>RAW IMG/FixME.png</file>
+    <file>RAW IMG/Force Me!.png</file>
+    <file>RAW IMG/Julius.png</file>
+    <file>RAW IMG/LeftArrow.png</file>
+    <file>RAW IMG/LiedaPro.png</file>
+    <file>RAW IMG/Logo.png</file>
+    <file>RAW IMG/logo2.png</file>
+    <file>RAW IMG/LogoBW.png</file>
+    <file>RAW IMG/Maze.png</file>
+    <file>RAW IMG/Orig_BG.JPG</file>
+    <file>RAW IMG/PixelGrass1.png</file>
+    <file>RAW IMG/PixelMountain1.png</file>
+    <file>RAW IMG/PixelSpace1.png</file>
+    <file>RAW IMG/PixelVolcano.png</file>
+    <file>RAW IMG/PixelWaterfall1.png</file>
+    <file>RAW IMG/pixil-frame-0.png</file>
+    <file>RAW IMG/RDP.png</file>
+    <file>RAW IMG/RightArrow.png</file>
+    <file>RAW IMG/RSA.png</file>
+    <file>RAW IMG/SourceGrass1.jpg</file>
+    <file>RAW IMG/SourceMountain1.png</file>
+    <file>RAW IMG/SourceSpace1.jpg</file>
+    <file>RAW IMG/SourceVolcano1.png</file>
+    <file>RAW IMG/SourceWaterfall1.jpg</file>
+    <file>RAW IMG/Suspicious Program.png</file>
+    <file>RAW IMG/Tight Pixels.png</file>
+    <file>RAW IMG/TM.png</file>
+    <file>RAW IMG/TwistedThreads.png</file>
+    <file>RAW IMG/Wrongdacted.png</file>
+  </qresource>
+</RCC>

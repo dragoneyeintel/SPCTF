@@ -1,0 +1,8 @@
+From main SPCTF - ... directory
+
+pyuic5.exe '.\GUI Implementation\Main_Player_Menu\MPM.ui
+' -o '.\GUI Implementation\Main_Player_Menu\MPM.py'
+
+pyrcc5.exe -o "C:\Users\Nick3214\Desktop\SPCTF - Simple
+Python CTF\GUI Implementation\Start_Menu\Res_rc.py" "C:\Users\Nick3214\Desktop\SPCTF - Simple Python CTF\GUI Imp
+lementation\Start_Menu\Res.qrc"
